@@ -57,7 +57,7 @@ const data = [
 // Method for generate portfolio cards
 const portfolio = () => {
   return (
-    <section id="portfolio">
+    <section id="portfolio" className='subscription'>
       <h5> My Recent Work </h5>
       <h2> Portfolio </h2> 
 

@@ -18,7 +18,7 @@ const data = [
   {
     avatar: AVTR1,
     name: 'Travis Scott',
-    review: '"Gleb ti krytoi"'
+    review: '"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Magni magnam alias reiciendis commodi harum sit?"'
   },
   {
     avatar: AVTR2,
@@ -41,7 +41,7 @@ const data = [
 
 const testimonials = () => {
   return (
-    <section id="testimonials"> 
+    <section id="testimonials" className='subscription'> 
       <h5>Review from clients</h5>
       <h2>Testimonials</h2>
 

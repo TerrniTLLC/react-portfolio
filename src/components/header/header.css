@@ -51,15 +51,6 @@ header{
     padding: 1rem 1rem 1rem -1rem;
 }
 
-/* Scroll down */
-.scroll__down{
-    position: absolute;
-    right: -22.3rem;
-    bottom: 5rem;
-    transform: rotate(90deg);
-    font-weight: 300;
-    font-size: 0.9rem;
-}
 /* Media queries (Medium devices) */
 @media screen and (max-width: 1024px){
     header{

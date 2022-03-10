@@ -1,6 +1,11 @@
+.subscription{
+    margin-top: 35rem;
+}
 .container.testimonials__container {
-    width: 40%;
+    margin-top: 4rem;
+    width: 60%;
     padding-bottom: 4rem;
+    height: 40%;
 }
 .client__avatar {
     width: 4rem;
@@ -23,6 +28,7 @@
     color: var(--color-light);
     width: 80%;
     margin: 0.8rem auto 0;
+    word-wrap: break-word;
 }
 .swiper-pagination-clickable .swiper-pagination-bullet {
     background: var(--color-primary);
