@@ -1,6 +1,7 @@
-### Version 1.0.0.2
+### Version 1.0.0.3
 
-Color theme changes / pallete 
+Version 1.0.0.2 - Small changes (color theme changes / pallete)
+Version 1.0.0.3 - Small changes (margin changes/ fixed adaptive(mobile) bugs / custom submit button)
 
 
 
