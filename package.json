@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/TerrniT/TerrniT.github.io.git/",
+  "homepage": "https://terrnit.github.io/my-react-website-portfolio/",
   "name": "react-portfolio-website-1",
   "version": "0.1.0",
   "private": true,
@@ -19,7 +19,10 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d master build"
   },
   "eslintConfig": {
     "extends": [

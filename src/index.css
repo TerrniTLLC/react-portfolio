@@ -12,12 +12,12 @@
 }
 /*  main colors - change bellow  */
 :root {
-    --color-bg: #1b4236;
-    --color-bg-variant: #1d5836;
-    --color-primary:#000000;
-    --color-primary-variant: rgba(38, 128, 83, 0.4);
+    --color-bg: #3AA3A0;
+    --color-bg-variant: #137AAA;
+    --color-primary:#8AE2E0;
+    --color-primary-variant: #0F5D7C;
     --color-white: #fff;
-    --color-light: rgba(255, 255, 255, 0.6);
+    --color-light: rgba(255, 255, 255, 0.5);
     /* Container width - change bellow */
     --container-width-lg: 75%;
     --container-width-md: 86%;
